@@ -21,5 +21,5 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/lucas-ruiz497" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="lucasruiz048@gmail.com"><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
+<a href="lucasruiz048@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
