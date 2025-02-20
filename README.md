@@ -51,5 +51,10 @@
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
 
 <p align="center">
-[<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg' alt='github' height='40'>](www.linkedin.com/in/lucas-ruiz497)  [<img src='https://skillicons.dev/icons?i=gmail' alt='dev' height='40'>](lucasruiz048@gmail.com)
+  <a href="https://www.linkedin.com/in/lucas-ruiz497">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" height="40">
+  </a>
+  <a href="mailto:lucasruiz048@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40">
+  </a>
 </p>
