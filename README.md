@@ -26,3 +26,5 @@
 
 <a href = 'www.linkedin.com/in/lucas-ruiz497'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'lucasruiz048@gmail.com'> <img width = '32px' align= 'center' src="ttps://skillicons.dev/icons?i=gmail"/></a> 
+
+<br>
