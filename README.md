@@ -13,8 +13,9 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 
 <h2> Conocimientos </h2>
 
-![Python](https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png)
-<img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png" width="24" /> Python
+<img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png" width="64" />
+<img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png" width="64" />
+
 
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
 
