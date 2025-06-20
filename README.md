@@ -13,10 +13,7 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 
 <h2> Conocimientos </h2>
 
-<p align="center">
-  <img src="https://imgur.com/ZUx9GvW" />
-  
-</p>
+<img src="https://imgur.com/ZUx9GvW" />
 
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
 
