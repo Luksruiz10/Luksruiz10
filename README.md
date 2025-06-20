@@ -1,25 +1,21 @@
-<h1 align="center">Hola Programadores👋</h1>
+<h1 align="center">Hola👋</h1>
 
 <div size='20px'> Mi nombre es Lucas Ruiz, gracias por visitar mi perfil! :smile: 
 </div>
 
 <h2> Sobre Mi </h2>
 
-- 🔭 Actualmente estoy en la busqueda de mi primer empleo
-  
-- 🌱 Soy estudiantes de Ciancia de datos e Inteligencia Artificial
+Me enfoco en crear soluciones que integren modelos de IA con interfaces funcionales
+
+🧪 Actualmente explorando: visión por computadora y modelos generativos.
+
+🚀 Buscando oportunidades para aplicar IA en proyectos reales y seguir creciendo como desarrollador.
 
 <h2> Conocimientos </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-    <img src="https://skillicons.dev/icons?i=flutter" />
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-    <img src="https://skillicons.dev/icons?i=tensorflow," />
-  </a>
+  <img src="https://raw.githubusercontent.com/Luksruiz10/react-front/main/public/images/icons/Scikit_learn.png" width="40" />
+  
 </p>
 
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
