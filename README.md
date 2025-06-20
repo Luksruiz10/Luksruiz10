@@ -14,7 +14,8 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 <h2> Conocimientos </h2>
 
 <p align="center">
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://imgur.com/ZUx9GvW" />
+  
 </p>
 
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
