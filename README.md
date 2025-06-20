@@ -13,7 +13,7 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 
 <h2> Conocimientos </h2>
 
-[<img src="https://imgur.com/ZUx9GvW" />](https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/Scikit_learn.png)
+![Python](https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png)
 
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
 
