@@ -13,19 +13,19 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 
 <h2> Conocimientos </h2>
 
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
   <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/aws.png" width="32" />
   <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/css3.png" width="32" />
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/flask.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/github.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/html.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/javascript.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/pandas.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/postgresql.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/pytorch.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/react.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/Scikit_learn.png" width="32" /> </div>
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/flask.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/github.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/html.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/javascript.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/pandas.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/postgresql.png" width="32" /> 
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/python.png" width="32" /> 
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/pytorch.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/react.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/Scikit_learn.png" width="32" />
 </div>
 
 
