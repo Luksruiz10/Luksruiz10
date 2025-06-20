@@ -14,8 +14,7 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 <h2> Conocimientos </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luksruiz10/react-front/main/public/images/icons/Scikit_learn.png" width="40" />
-  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
 <h2 style="display: inline-block">Contacta conmigo🤝</h2>
