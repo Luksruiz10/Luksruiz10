@@ -14,8 +14,8 @@ Me enfoco en crear soluciones que integren modelos de IA con interfaces funciona
 <h2> Conocimientos </h2>
 
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/aws.png" width="32" /> </div>
-  <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/css3.png" width="32" /> </div>
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/aws.png" width="32" />
+  <img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/css3.png" width="32" />
   <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/flask.png" width="32" /> </div>
   <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/github.png" width="32" /> </div>
   <div><img src="https://raw.githubusercontent.com/Luksruiz10/assets/main/icons/html.png" width="32" /> </div>
